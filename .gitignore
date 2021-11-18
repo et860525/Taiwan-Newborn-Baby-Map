@@ -1,0 +1,5 @@
+.vscode
+.linux-env
+data-analysis-db.ipynb
+__pycache__
+.ipynb_checkpoints
